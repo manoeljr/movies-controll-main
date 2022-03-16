@@ -6,5 +6,5 @@
 
 - Frontend na porta 3000
 
-### Comando para roda o MARIAD e PHPMYADMIN
+### Comando para roda o MARIADB e PHPMYADMIN
 - docker-compose up -d
